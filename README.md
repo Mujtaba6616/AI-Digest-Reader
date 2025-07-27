@@ -88,13 +88,9 @@
 <div align="center">
 
 ### Dark Theme Interface
-![Frontend](screenshots/frontend.png)
 
-### Email Digest
-![Email](screenshots/email.png)
+<img width="1256" height="836" alt="image" src="https://github.com/user-attachments/assets/85638caf-08d5-49c9-af7c-596e234b1bd1" />
 
-### Console Output
-![Console](screenshots/console.png)
 
 </div>
 
