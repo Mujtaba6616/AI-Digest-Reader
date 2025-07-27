@@ -1,0 +1,33 @@
+# Environment variables (NEVER upload these!)
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+news_env/
+ENV/
+
+# Generated files
+*.html
+*.txt
+news_digest_*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# API Keys (backup safety)
+*api_key*
+*password*

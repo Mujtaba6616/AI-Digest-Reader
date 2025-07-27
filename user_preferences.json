@@ -1,0 +1,10 @@
+{
+  "topics": ["technology", "business", "science", "health"],
+  "sources": [],
+  "max_articles": 6,
+  "summary_length": 3,
+  "send_email": true,
+  "email_recipients": ["mujtaba6616@gmail.com"],
+  "send_time": "08:00",
+  "timezone": "UTC"
+}
