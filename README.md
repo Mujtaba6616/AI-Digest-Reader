@@ -1,4 +1,4 @@
-# 🤖 AI News Summarizer
+# 🤖 AI Digest Reader
 
 > A beautiful, AI-powered news summarizer that fetches articles, creates intelligent summaries, and presents them in a stunning dark-themed web interface.
 
